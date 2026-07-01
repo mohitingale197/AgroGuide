@@ -32,7 +32,7 @@ import org.json.JSONObject;
 public class ScanResultActivity extends AppCompatActivity {
 
     // Configure your Groq API Key here: https://console.groq.com/keys
-    private static final String GROQ_API_KEY = "";
+    private static final String GROQ_API_KEY = "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";
     
     private String diagnosisJsonContext = "";
     private String currentImageUri = null;
